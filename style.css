@@ -1,0 +1,29 @@
+.mainDiv{
+    position: relative;
+    border: 2px;
+    border: solid black;
+    width: 50%;
+    height: 4000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+#måned{
+color: rgb(255, 0, 221);
+}
+
+img{
+    height: 5%;
+    width: 100%;
+
+}
+
+.underPicture{
+    position: relative;
+   /* height: 4%; */
+    width: 4%;
+    left: 30px;
+    top: 0px;
+    line-height: 2em;
+    border: solid; 
+}
